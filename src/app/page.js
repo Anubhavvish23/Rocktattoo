@@ -5,7 +5,7 @@ import Herosection from '../components/Herosection';
 import Floatingnavbar from '../components/Floatingnavbar';
 import Products from '../components/Products';
 import PermanentTattoo from '../components/perm';
-import Contactus from '../components/contactus';
+import Contactus from '../components/Contactus';
 import Footer from '../components/Footer';
 export default function Home() {
   const [currentView, setCurrentView] = useState('home');
